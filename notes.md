@@ -13,5 +13,6 @@ To shut up the kernel on the console:
 * `dmesg -D` `--console-off disable printing messages to console`
 * `dmesg -E` `--console-on  enable printing messages to console`
 
+## http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/23766-rom-unofficial-openelec-for-mk808b-and-mxq
 
-
+Up to page 39.

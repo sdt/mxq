@@ -33,3 +33,4 @@ http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/23766-rom-u
 ## Interesting links
 
 * [Unbrick](http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/s805/others-ab/523003-mxq-ott-s805-box-bricked-red-led-constantly-on)
+* [u-boot env](http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/23766-rom-unofficial-openelec-for-mk808b-and-mxq?p=551919#post551919)

@@ -28,7 +28,7 @@ http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/23766-rom-u
 >
 > WARNING: It will flash every time it boots unless you remove that SD card with kernel.img. If the flash writes the image (you watch the green robot for about 5 minutes) and reboots the box, pull out the card as soon as the box goes black otherwise it will restore/write the image over and over and over again.....
 
-http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/23766-rom-unofficial-openelec-for-mk808b-and-mxq/page110
+http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/23766-rom-unofficial-openelec-for-mk808b-and-mxq/page113
 
 ## Interesting links
 

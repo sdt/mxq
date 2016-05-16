@@ -22,7 +22,7 @@ To shut up the kernel on the console:
 
 ## Openelec forum
 
-http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/23766-rom-unofficial-openelec-for-mk808b-and-mxq/page195
+http://freaktab.com/forum/tv-player-support/amlogic-based-tv-players/23766-rom-unofficial-openelec-for-mk808b-and-mxq/page205
 
 ## Libreelec forum
 
